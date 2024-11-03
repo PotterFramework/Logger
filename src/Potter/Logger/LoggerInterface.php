@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace Potter\Logger;
 
-use PHPAbles\Resettable\ResettableInterface,
+use PHPAbles\ResettableInterface,
     Psr\Log\LoggerInterface as PsrLoggerInterface,
     Stringable;
 
